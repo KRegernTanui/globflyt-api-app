@@ -1,0 +1,473 @@
+[
+{
+  "id": 1,
+  "title": "Petra, Jordan",
+  "summary": "Discover the ancient Nabatean city carved into rose-red cliffs, a marvel of architecture and history. Petra, founded in 312 BC, is over 2,300 years old and was once the thriving capital of the Nabatean Empire. Known as the 'Rose City' for its pink-hued sandstone, Petra was rediscovered in 1812 after centuries of obscurity, earning the nickname 'The Lost City.' It’s one of the New Seven Wonders of the World and a UNESCO World Heritage Site. The city’s name comes from the Greek word 'Petros' meaning 'rock,' but ancient inscriptions reveal its original name was 'Raqemo.' Only 15% of Petra has been excavated—most of its secrets remain buried. The Nabateans engineered sophisticated water systems that supported lush gardens in the desert. Petra’s structures align with solar movements, suggesting astronomical significance. With over 800 tombs, including royal resting places, and cinematic fame from films like *Indiana Jones and the Last Crusade*, Petra is both a historical treasure and a place of mystery waiting to be explored.",
+  "images": [
+    {
+      "url": "https://www.usnews.com/object/image/00000171-79d6-d48c-a973-7bd706320000/5-easter-island-patricia-hamilton.jpg?update-time=1586887604776&size=responsive640",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/326/"
+    },
+    {
+      "url": "https://www.usnews.com/object/image/00000171-79d5-d48c-a973-7bd7f3160000/2-stonehenge-danaibe12.jpg?update-time=1586887707167&size=responsive640",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/place/Petra-ancient-city-Jordan"
+    },
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Stonehenge_from_the_northeast.jpg",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-jordan/"
+    },
+    {
+      "url": "https://www.usnews.com/object/image/00000171-79d6-d48c-a973-7bd726f30000/9-chichen-itza.jpg?update-time=1586887505032&size=responsive640",
+      "attribution": "Jordan Travel",
+      "source": "https://www.jordan-travel.com/petra/"
+    }
+  ]
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  "id": 4,
+  "title": "The Colosseum, Italy",
+  "summary": "Walk through the echoes of ancient Rome at the Colosseum, a grand amphitheater that once hosted gladiator battles and imperial spectacles.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1200px-Colosseo_2020.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/91/"
+    },
+    {
+      "url": "https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Colosseum"
+    },
+    {
+      "url": "https://i0.wp.com/www.touristitaly.com/wp-content/uploads/2023/10/shutterstock_1028245255.jpg?resize=1024%2C683&ssl=1",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-italy/"
+    },
+    {
+      "url": "https://th-thumbnailer.cdn-si-edu.com/KIWiyaq9epRMUUk-2EcGt5fe-74=/1072x720/filters:no_upscale():focal(2183x1356:2184x1357)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/41/4f/414f4c9f-b197-4778-9dc6-2a0105cc2908/colosseum_in_rome-april_2007-1-_copie_2b.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/rome-i-la-rom.htm"
+    },
+    {
+      "url": "https://visit-rome-in-italy.global.ssl.fastly.net/pics/ancient-rome/colosseum/colosseum-arena-rome-italy-16.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/colosseum-rome-italy"
+    }
+  ]
+},
+
+{
+  "id": 5,
+  "title": "Stonehenge, England",
+  "summary": "Stonehenge is far more than a ring of ancient stones — it’s a layered monument built over 1,500 years, beginning around 3000 BCE, and possibly rooted in even older Mesolithic activity dating back to 8000 BCE. While most know it for its solstice alignments, recent excavations suggest it was also one of the largest Neolithic cemeteries in Britain, with over 150 cremation burials found in the surrounding pits known as Aubrey Holes. The monument’s bluestones, sourced from the Preseli Hills in Wales over 150 miles away, may have been chosen for their perceived healing properties, hinting at Stonehenge’s role as a prehistoric pilgrimage site for the sick and injured. Intriguingly, some of the stones bear carvings of Bronze Age axe heads and daggers, possibly symbols of power or ritual significance. And according to medieval legend, the wizard Merlin transported the stones from Ireland using magic — a myth that persisted for centuries and still colors the site's mystique today.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1200px-Stonehenge2007_07_30.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/373/"
+    },
+    {
+      "url": "https://www.english-heritage.org.uk/siteassets/home/visit/places-to-visit/stonehenge/history/stonehenge-aerial-1440x612.jpg?w=1440&h=612&mode=crop&scale=both&quality=100&anchor=NoFocus&WebsiteVersion=20200219",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Stonehenge"
+    },
+    {
+      "url": "https://images.immediate.co.uk/production/volatile/sites/7/2020/04/GettyImages-105955888-f1865bb.jpg?quality=90&resize=980,654",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-england/"
+    },
+    {
+      "url": "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:240,cw:1440,ch:1080,q:80,w:1440/q4i42ws72RZ3sEcx2QT3iV.jpg",
+      "attribution": "English Heritage",
+      "source": "https://www.english-heritage.org.uk/visit/places/stonehenge/"
+    },
+    {
+      "url": "https://media.houseandgarden.co.uk/photos/62b19f2d839c16274f882d13/16:9/w_3999,h_2249,c_limit/GettyImages-599815110.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/stonehenge-england"
+    },
+    {
+      "url": "https://www.artnews.com/wp-content/uploads/2025/02/stonehenge2.jpg?w=2000",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/england/wiltshire/stonehenge"
+    }
+  ]
+},
+
+
+{
+  "id": 6,
+  "title": "Chichen Itza, Mexico",
+  "summary": "Chichen Itza was one of the greatest cities of the ancient Maya, flourishing between 600 and 1200 CE. Its centerpiece, El Castillo (Temple of Kukulcán), is a pyramid designed with astronomical precision — during the spring and autumn equinoxes, shadows cast by the sun create the illusion of a serpent slithering down its steps. The site also features the Great Ball Court, the largest in Mesoamerica, where ritual games may have ended in human sacrifice. Recent studies suggest Chichen Itza was a multicultural hub, blending Maya, Toltec, and other influences, and its sacred cenote (sinkhole) was used for offerings to the gods, including gold, jade, and human remains. The city’s layout reflects deep cosmological beliefs, with structures aligned to celestial events and mythological symbolism.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/483/"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/atvntylo/production/c5523e15a9221746d44966d37ad0a38071ebe244-1080x720.webp?w=3840&q=65&fit=clip&auto=format",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/place/Chichen-Itza"
+    },
+    {
+      "url": "https://cdn.britannica.com/86/179586-138-8B763D72/Overview-Chichen-Itza-Yucatan-Mexico.jpg?w=800&h=450&c=crop",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-mexico/"
+    },
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0483_0001-750-750-20080528123637.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/mexico/yucatan/chichen-itza"
+    },
+    {
+      "url": "https://cdn.sanity.io/images/atvntylo/production/c5444922a0cd9ffe8c1f8b4ccefa12867c899823-1200x720.webp?w=3840&q=65&fit=clip&auto=format",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/chichen-itza-mexico"
+    },
+    {
+      "url": "https://cdn.chichenitza7.com/wp-content/uploads/2023/04/book-chichen-itza-classic-tour.webp",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/chichen-itza-mex.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 7,
+  "title": "The Great Wall of China",
+  "summary": "Stretching over 13,000 miles, the Great Wall of China is not a single wall but a vast network of fortifications built across centuries, beginning as early as the 7th century BCE. While most associate it with the Ming Dynasty, earlier sections were constructed by various states during the Warring States period. The wall wasn’t just a military barrier — it also served as a customs checkpoint, communication line, and psychological deterrent. Some parts were built using tamped earth, others with bricks and stone, depending on local resources. Recent studies suggest beacon towers were used to transmit smoke signals across vast distances in mere hours. Despite myths, the wall isn’t visible from space with the naked eye — but its cultural gravity is undeniable.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/960px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/440/"
+    },
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0438_0035-750-750-20241024162522.jpg",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Great-Wall-of-China"
+    },
+    {
+      "url": "https://images.nationalgeographic.org/image/upload/t_edhub_resource_key_image/v1638892506/EducationHub/photos/the-great-wall-of-china.jpg",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-china/"
+    },
+    {
+      "url": "https://miro.medium.com/v2/resize:fit:1400/1*bElpUCLFA6Wb3aEuzzZ8vw.jpeg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/china/great-wall-of-china"
+    },
+    {
+      "url": "https://cdn.britannica.com/89/179589-138-3EE27C94/Overview-Great-Wall-of-China.jpg?w=800&h=450&c=crop",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/great-wall-of-china"
+    },
+    {
+      "url": "https://cdn.britannica.com/82/94382-050-20CF23DB/Great-Wall-of-China-Beijing.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/great-wall-china.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 8,
+  "title": "Acropolis of Athens, Greece",
+  "summary": "Perched above the city of Athens, the Acropolis is a symbol of classical civilization and democratic ideals. Its most iconic structure, the Parthenon, was dedicated to Athena and built between 447–432 BCE using marble from Mount Pentelicus. But the Acropolis is more than just the Parthenon — it includes the Erechtheion, with its famous Caryatid columns, and the Temple of Athena Nike, celebrating victory. Beneath its stones lie traces of earlier Mycenaean fortifications, and recent studies suggest the site was used for cult worship long before the classical era. During the Ottoman period, the Parthenon was repurposed as a mosque, and even suffered damage from a Venetian bombardment in 1687. Today, the Acropolis stands as a layered palimpsest of history, myth, and resilience.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Classic_view_of_Acropolis.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/404/"
+    },
+    {
+      "url": "https://cdn-imgix.headout.com/microbrands-banner-image/image/b698f96a3bf7e35418940973f33c4708-The%20Acropolis%20of%20Athens.jpeg",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Acropolis-of-Athens"
+    },
+    {
+      "url": "https://cdn.britannica.com/54/150954-050-F8D14782/Night-view-Parthenon-Athens.jpg",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-greece/"
+    },
+    {
+      "url": "https://cdn.britannica.com/99/255999-159-73560D25/Parthenon-temple-at-the-Acropolis-of-Athens-Greece-built-5th-century-BC.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/greece/athens/acropolis"
+    },
+    {
+      "url": "https://www.planetware.com/photos-large/GR/greece-athens-acropolis-parthenon.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/acropolis-athens-greece"
+    },
+    {
+      "url": "https://www.historyhit.com/app/uploads/2021/02/Acropolis.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/acropolis-athens-gre.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 9,
+  "title": "Alhambra, Spain",
+  "summary": "The Alhambra is a breathtaking palace and fortress complex in Granada, Spain, originally constructed in the mid-13th century by the Nasrid dynasty. Its name derives from the Arabic 'al-Ḥamrāʼ', meaning 'the red one', referencing the reddish hue of its walls. The site blends Islamic, Christian, and Renaissance architectural styles, reflecting centuries of cultural transitions. The intricate stucco work, muqarnas ceilings, and geometric tile mosaics are masterpieces of Islamic art. The Court of the Lions, with its iconic fountain supported by twelve marble lions, symbolizes strength and sovereignty. After the Reconquista, the Alhambra was partially repurposed by Christian monarchs, and Charles V even built a Renaissance palace within its walls. Recent studies suggest the complex was designed with advanced hydraulic systems, including pressure-regulated fountains and cooling channels — centuries ahead of their time.",
+  "images": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/330px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/314/"
+    },
+    {
+      "url": "https://cdn.britannica.com/56/140856-050-C408FFB6/Patio-de-los-Arrayanes-Alhambra-Spain-Granada.jpg",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Alhambra"
+    },
+    {
+      "url": "https://i0.wp.com/classytravelguides.com/wp-content/uploads/2025/01/IMG_4243.webp?resize=768%2C1024&ssl=1",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-spain/"
+    },
+    {
+      "url": "https://www.travelandleisure.com/thmb/0R-YHAXRZby3ykN68FAqU68Ivjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALHAMBRA0117-73e53148f36748aca96a22a093af8a82.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/spain/granada/alhambra"
+    },
+    {
+      "url": "https://omrania.com/wp-content/uploads/Alhambra_palace-01.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/alhambra-spain"
+    }
+  ]
+},
+
+
+{
+  "id": 10,
+  "title": "The Pyramids of Giza, Egypt",
+  "summary": "The Pyramids of Giza — especially the Great Pyramid of Khufu — are among the most enduring symbols of ancient engineering. Built around 2560 BCE, the Great Pyramid originally stood at 146.6 meters and was the tallest man-made structure for over 3,800 years. Its alignment with cardinal points is nearly perfect, and its internal chambers remain a source of fascination. Theories abound about its construction, from massive labor forces to ingenious ramp systems. The nearby pyramids of Khafre and Menkaure, along with the enigmatic Sphinx, form a sacred necropolis that reflects complex religious beliefs about the afterlife. Recent scans using muon tomography have revealed hidden voids within the Great Pyramid, suggesting there’s still much to uncover. Despite centuries of study, the site continues to challenge our understanding of ancient Egypt’s capabilities.",
+  "images": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9_h47G0-OTZWjgBgK-_hTax3trURQRb70g&s",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/86/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpg7jV0g4SHZ04tfGcApwI9ifRbpiHq_fnuw&s",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Pyramids-of-Giza"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-wjf7m-k7I3AdNb2Y6nVtuFuv_srUUjJ1A&s",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-egypt/"
+    },
+    {
+      "url": "https://cdn.britannica.com/43/189743-050-25B19F71/Great-Sphinx-Pyramid-of-Khafre-Egypt-Giza.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/egypt/cairo/pyramids-of-giza"
+    },
+    {
+      "url": "https://www.worldhistory.org/img/r/p/1500x1500/5687.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/pyramids-of-giza-egypt"
+    },
+    {
+      "url": "https://cdn-imgix.headout.com/media/images/e3e4b92772a00bf08922a79dd5a874d7-Giza.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/pyramids-giza-egypt.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 11,
+  "title": "Pont du Gard, France",
+  "summary": "The Pont du Gard is a towering Roman aqueduct bridge built in the 1st century CE to carry water over 50 kilometers to the city of Nîmes. Standing nearly 50 meters tall, it’s the highest of all Roman aqueducts and one of the best-preserved. Constructed without mortar, its stones were precisely cut and fitted, showcasing the Romans’ mastery of engineering. The bridge’s three tiers of arches span the Gardon River and were designed to withstand floods and shifting terrain. Archaeological evidence suggests the aqueduct supplied over 40 million liters of water daily. Though it ceased functioning in the 6th century, the structure remained intact and was later used as a toll bridge in the Middle Ages. Today, it’s a UNESCO World Heritage Site and a testament to the ingenuity of ancient infrastructure.",
+  "images": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXwDNojQw69IMxZs-HeSUEOCCXSDK_zsk5-Q&s",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/75/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3UcByXOrfG-oEGcFCUS4hHBxjc3IJzKwukA&s",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/topic/Pont-du-Gard"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEeRxbP-BFJzjwUcfQ_W2aFOiUwgTK83QoQ&s",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-france/"
+    },
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0344_0021-750-750-20151104175805.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/france/pont-du-gard"
+    },
+    {
+      "url": "https://smarthistory.org/wp-content/uploads/2022/02/13953830703_76406750e5_k.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/pont-du-gard-france"
+    },
+    {
+      "url": "https://www.uzes-pontdugard.com/app/uploads/2024/05/pont-du-gard-dpupg-aurelio-rodriguez-31-12-2030-9.webp",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/pont-du-gard-france.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 12,
+  "title": "Sigiriya, Sri Lanka",
+  "summary": "Sigiriya, also known as Lion Rock, is a dramatic rock fortress rising nearly 200 meters above the central plains of Sri Lanka. Built in the 5th century CE by King Kashyapa, it served as both a royal palace and a defensive stronghold. The site features elaborate water gardens, mirror-like walls once polished to reflect the king’s image, and frescoes of celestial maidens painted directly onto the rock face. The entrance to the summit was once flanked by a massive lion’s head — now only the paws remain. Archaeological evidence suggests Sigiriya may have been a Buddhist monastery before and after Kashyapa’s reign. Its advanced urban planning, including hydraulic systems and terraced gardens, reflects a sophisticated understanding of landscape design and engineering. Today, it’s considered one of the best-preserved examples of ancient urban planning in South Asia.",
+  "images": [
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0202_0001-750-0-20210303152953.jpg",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/202/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd4UL2W6qrF7R-J2wJLIEPe8dBgHWPfKftEA&s",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/place/Sigiriya"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9fdQ1YjjRZr-sUMK4047cxBkAzIowY0wseQ&s",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-sri-lanka/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr4uEB9qqUDiO3DMeNDNAqAXmgWLbAdGNnDw&s",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/sri-lanka/sigiriya"
+    },
+    {
+      "url": "https://ychef.files.bbci.co.uk/624x351/p0b7n6dm.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/sigiriya-sri-lanka"
+    },
+    {
+      "url": "https://www.remotelands.com/storage/media/603/conversions/b130130006-banner-size.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/sigiriya-sri-lanka.htm"
+    },
+    {
+      "url": "https://images.squarespace-cdn.com/content/v1/6298cb774cf3830bc9b342bf/e0ec3d17-bb76-4f83-920c-f57579d2e813/Sigiriya+Rock.jpg",
+      "attribution": "Sri Lanka Tourism",
+      "source": "https://www.srilanka.travel/sigiriya"
+    }
+  ]
+},
+
+
+{
+  "id": 13,
+  "title": "Great Zimbabwe, Zimbabwe",
+  "summary": "Great Zimbabwe was the capital of the Kingdom of Zimbabwe during the Late Iron Age, flourishing between the 11th and 15th centuries. The site spans over 7 square kilometers and features massive stone walls built without mortar — some reaching up to 11 meters high. The Great Enclosure, the largest ancient structure south of the Sahara, showcases intricate stonework and a conical tower whose purpose remains debated. Archaeological finds include soapstone bird carvings, which have become national symbols, and evidence of trade with distant regions like China and Persia, suggesting Great Zimbabwe was a hub in a vast commercial network. The city’s decline may have been due to environmental pressures or shifting trade routes. Today, it stands as a powerful testament to indigenous African architecture, statecraft, and cultural sophistication.",
+  "images": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIFxKOfuKUhMAipXZRscAJoiCqpsAD0ciBmQ&s",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/364/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPlezCPmS-hHAFCsulW-geQqPvZgRWZfNRrw&s",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/place/Great-Zimbabwe"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUlvKXFEW6OCEjRkI6s-Q2ScuYrn9xD98GnQ&s",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-zimbabwe/"
+    },
+    {
+      "url": "https://cdn.britannica.com/72/185172-050-F5D46CA8/Ruins-structures-Great-Zimbabwe.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/zimbabwe/great-zimbabwe"
+    },
+    {
+      "url": "https://sacredsites.com/images/africa/zimbabwe/Great-Zimbabwe-construction-artist-reconstruction-1200.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/great-zimbabwe"
+    },
+    {
+      "url": "https://cdn.britannica.com/14/153414-050-6001EE2C/Ruins-Great-Zimbabwe-palace.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/great-zimbabwe-zwe.htm"
+    }
+  ]
+},
+
+
+{
+  "id": 14,
+  "title": "Lalibela Rock-Hewn Churches, Ethiopia",
+  "summary": "Carved directly into volcanic rock in the 12th and 13th centuries, the churches of Lalibela are a testament to Ethiopia’s medieval Christian heritage. Commissioned by King Lalibela as a 'New Jerusalem' after Muslim conquests made pilgrimage to the Holy Land difficult, the complex includes 11 monolithic churches connected by tunnels and trenches. The most iconic, Bete Giyorgis (Church of St. George), is shaped like a cross and carved entirely from a single block of stone. The site’s construction remains a mystery — local legend attributes it to angels working at night. Lalibela continues to be a living religious site, with priests and pilgrims maintaining centuries-old traditions. Its architectural ingenuity, spiritual significance, and cultural resilience make it one of Africa’s most extraordinary historical landmarks.",
+  "images": [
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYZ31ehJ2HVRPVMeP1XBHe3gixYXT_OcSWA&s",
+      "attribution": "UNESCO World Heritage Centre",
+      "source": "https://whc.unesco.org/en/list/18/"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHYZ31ehJ2HVRPVMeP1XBHe3gixYXT_OcSWA&s",
+      "attribution": "Encyclopædia Britannica",
+      "source": "https://www.britannica.com/place/Lalibela"
+    },
+    {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZkgRAJGoDlYExFcTpQyJU_YluvnewwaXDvg&s",
+      "attribution": "History Hit",
+      "source": "https://www.historyhit.com/guides/historic-sites-in-ethiopia/"
+    },
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/activity_160-1200-630-20220302224444.jpg",
+      "attribution": "Lonely Planet",
+      "source": "https://www.lonelyplanet.com/ethiopia/lalibela"
+    },
+    {
+      "url": "https://www.biblicalarchaeology.org/wp-content/uploads/2016/08/11-1.-Beta-Giyorgis.jpg",
+      "attribution": "National Geographic",
+      "source": "https://www.nationalgeographic.com/travel/article/lalibela-ethiopia"
+    },
+    {
+      "url": "https://whc.unesco.org/uploads/thumbs/site_0018_0016-376-200-20151104173458.jpg",
+      "attribution": "PlanetWare",
+      "source": "https://www.planetware.com/tourist-attractions-/lalibela-eth.htm"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+]
